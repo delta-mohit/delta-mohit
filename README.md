@@ -1,4 +1,4 @@
--🌱 I’m currently Learning DSA.
+🌱 I’m currently Learning DSA.
 - I am currently a third-year undergraduate student at Indian Institute of Technology Kharagpur.
 - 👀 I’m interested in Software Development.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mohit-saini-191b1622b/)
